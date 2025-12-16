@@ -26,7 +26,9 @@ Dieser Analyzer importiert echte Google Reviews, analysiert sie mithilfe von KI 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/demo1.gif" width="100%" />
 </p>
-
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/5.png" width="100%" />
+</p>
 
 
 ---
@@ -68,19 +70,37 @@ Dieser Analyzer importiert echte Google Reviews, analysiert sie mithilfe von KI 
   - Sprachmustern  
   - Übertreibungen  
   - Ultra-kurzen 5-Sterne-Bewertungen ohne Inhalt  
-  - Account-Muster  
   
+
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/2.png" width="100%" />
+</p>
+
+
+
+
 
 ### 🚨 Fake-Review-Detector
 - Zeigt verdächtige Bewertungen  
-- Mit Text, Autor, Datum, Wahrscheinlichkeit  
+- Mit Text, Autor, Datum, Wahrscheinlichkeit
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/4.png" width="100%" />
+</p>
+
 
 ### 🔎 Review Explorer
 Filter nach Kategorien:  
 - 🍽️ Essen  
 - 🧑‍🍳 Service  
 - 🏠 Ambiente  
-- 💰 Preis  
+- 💰 Preis
+
+-   <p align="center">
+  <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/3.png" width="100%" />
+</p>
+  
 
 ---
 
