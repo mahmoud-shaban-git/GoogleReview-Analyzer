@@ -26,8 +26,10 @@ Dieser Analyzer importiert echte Google Reviews, analysiert sie mithilfe von KI 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/demo1.gif" width="100%" />
 </p>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/5.png" width="100%" />
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/demo2.gif" width="100%" />
 </p>
 
 
