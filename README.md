@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahmoud-dev-assets/google-review-analyzer-banne/banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/banner.svg" width="100%" />
 </p>
 
 
