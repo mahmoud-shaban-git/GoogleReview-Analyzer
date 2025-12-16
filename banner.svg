@@ -1,0 +1,45 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"></stop>
+      <stop offset="100%" stop-color="#1e293b"></stop>
+    </linearGradient>
+
+    <!-- Glow animation -->
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.8">
+        <animate attributeName="stop-opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="transparent"></stop>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#grad)" rx="20"></rect>
+
+  <!-- Moving particle glow -->
+  <circle cx="200" cy="150" r="120" fill="url(#glow)">
+    <animate attributeName="cx" values="200;1000;200" dur="12s" repeatCount="indefinite"></animate>
+  </circle>
+
+  <!-- Title -->
+  <text x="50%" y="38%" fill="#ffffff" font-size="50" font-family="Segoe UI, sans-serif" font-weight="bold" text-anchor="middle">
+      GOOGLE REVIEW ANALYZER
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"></animate>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="58%" fill="#93c5fd" font-size="26" font-family="Segoe UI, sans-serif" text-anchor="middle">
+      KI-gestützte Analyse von echten Google Bewertungen
+    <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"></animate>
+  </text>
+
+  <!-- Tagline -->
+  <text x="50%" y="78%" fill="#cbd5e1" font-size="20" font-family="Segoe UI, sans-serif" text-anchor="middle">
+      Fake-Review-Erkennung • Keyword-Insights • Trend-Analyse • Kategorienfilter
+    <animate attributeName="opacity" values="0;1" dur="3s" fill="freeze"></animate>
+  </text>
+
+</svg>
