@@ -17,13 +17,17 @@ Dieser Analyzer importiert echte Google Reviews, analysiert sie mithilfe von KI 
 
 ---
 
-## 🎥 Demo-Video (YouTube)
+## 🎥 Demo-Video
 
-> **👉 Du kannst hier dein Demo-Video verlinken!**
+<p align="center">
+  <strong>🚀 Live Demo</strong>
+</p>
 
-[![Video ansehen](https://img.youtube.com/vi/DEIN_VIDEO_ID/maxresdefault.jpg)](https://youtube.com/watch?v=DEIN_VIDEO_ID)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahmoud-shaban-git/GoogleReview-Analyzer/main/demo1.gif" width="100%" />
+</p>
 
-Ersetze einfach `DEIN_VIDEO_ID`.
+
 
 ---
 
